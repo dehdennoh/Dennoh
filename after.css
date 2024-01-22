@@ -1,0 +1,14 @@
+form{
+    background-color: darkred;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
+button{
+    width: 70%;
+
+}
+label{
+    width: 100px;
+    display: inline-block;
+}

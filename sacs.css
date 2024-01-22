@@ -1,0 +1,42 @@
+.head1{
+    color: #e10404;
+}
+.head2{
+    font-style: italic;
+}
+#drdr{
+    font-style: normal;
+}
+.emo{
+    background-color: gray;
+    padding-left: 50px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: #ffffff;
+}
+.mytest{
+    display: flex;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.pp1{
+    margin-left: 40px;
+}
+.main{
+    display: flex;
+}
+.man2{
+    background-color: #e10404;
+    color: white;
+}
+.place3{
+    background-color: yellow;
+    color: black;
+}
+.part4{
+    background-color: blue;
+    color: white;
+}
